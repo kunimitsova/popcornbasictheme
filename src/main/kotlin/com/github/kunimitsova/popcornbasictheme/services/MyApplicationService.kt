@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.kunimitsova.popcornbasictheme.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.kunimitsova.popcornbasictheme.MyBundle
 
 class MyApplicationService {
 
